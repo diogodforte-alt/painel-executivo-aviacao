@@ -1,6 +1,6 @@
 # ✈️ Painel de Desempenho Executivo - Aviação Brasileira
 
-![Dashboard Overview](Dashboard_Aviação_Final.jpg)
+![Dashboard Overview](Dashboard_Aviação_Final.png)
 
 📥 **[Clique aqui para aceder e descarregar o ficheiro Power BI (.pbix) completo](https://drive.google.com/file/d/1ac2BKbq4cb6QXcPRLEmwdy52g7zW2-Mf/view?usp=drive_link)**
 
